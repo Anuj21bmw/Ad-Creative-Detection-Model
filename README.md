@@ -41,3 +41,6 @@ TensorFlow
 OpenCV
 Matplotlib
 NumPy
+
+Results
+The model achieves an accuracy of approximately 94% on the test set, demonstrating its ability to differentiate between ad creatives and non-ad creatives.
